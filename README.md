@@ -1,7 +1,6 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) Hola, mi nombre es Martin Salvador Vega Perez 👋
-### Freelance full-stack iOS & Android engineer
+### Web Developer
 
-![https://github.com/mouredev](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_github_profile.png)
 
 
 Actualmente estudio la carrera de Ingenieria Informatica con la especialidad en Ciberseguridad.
