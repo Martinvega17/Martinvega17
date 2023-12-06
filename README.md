@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in **A personal project**
 
-- 💬 Ask me about **laravel**
+- 💬 Ask me about **laravel** and **Cybersecurity**
 
 - 📫 How to reach me **martinvega0313@gmail.com**
 
