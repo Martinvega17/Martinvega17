@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Martin Salvador Vega Perez</h1>
-<h3 align="center">I'm currently studying computer engineering with a focus on cybersecurity</h3>
+<h3 align="center">I'm computer engineering with a focus on cybersecurity</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=martinvega17&label=Profile%20views&color=0e75b6&style=flat" alt="martinvega17" /> </p>
 
